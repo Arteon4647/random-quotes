@@ -54,3 +54,10 @@ body {
 #toggle-favorite-btn {
   display: none;
 }
+
+.star-icon {
+  font-size: 30px;
+  color: yellow;
+  vertical-align: middle;
+  cursor: pointer;
+}
