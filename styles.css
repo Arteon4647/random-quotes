@@ -51,10 +51,6 @@ body {
   font-style: italic;
 }
 
-#toggle-favorite-btn {
-  display: none;
-}
-
 .star-icon {
   font-size: 30px;
   color: yellow;
